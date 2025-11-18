@@ -64,6 +64,3 @@ Netflix_shows_EDA
     └── netflix_shows.csv            # Dataset file
 
 ```
-
-
-## 📁 Project Structure
